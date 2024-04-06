@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap"> My research interests lie in **computer experiment, uncertainty quantification, multi-fidelity simulation** in the field of *industrial/engineering statistics*. You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+My research interests lie in **computer experiment, uncertainty quantification, multi-fidelity simulation** in the field of *industrial/engineering statistics*. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=3KWFrYAAAAAJ&hl=en).
+
 
 Publications
 ======
