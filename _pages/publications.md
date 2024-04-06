@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap"> My research interests lie in **computer experiment, uncertainty quantification, multi-fidelity simulation** in the field of *industrial/engineering statistics*. <a href="{{site.author.googlescholar}}"> Google Scholar </a></div>
+  <div class="wordwrap"> My research interests lie in **computer experiment, uncertainty quantification, multi-fidelity simulation** in the field of *industrial/engineering statistics*. <a href="{{site.author.googlescholar}}">Google Scholar</a></div>
 {% endif %}
 
 Publications
