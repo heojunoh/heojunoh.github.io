@@ -1,21 +1,26 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap"> My research interests lie in **computer experiment, uncertainty quantification, multi-fidelity simulation** in the field of *industrial/engineering statistics*. You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 Publications
 ======
-{% include base_path %}
+2. [Active Learning for a Recursive Non-Additive Emulator for Multi-Fidelity Computer Experiments](https://arxiv.org/abs/2309.11772)
+<br> Heo, J., and Sung, C.-L. (2024+)
+<br> Submitted.
+   * Winner, 2024 ASA Student Paper Competition, Sections on Physical and Engineering Sciences (SPES) and Quality and Productivity (Q&P)
+   * Winner, INFORMS 2023 Quality, Statistics & Reliability Best Student Paper Competition
+<br> <br> 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. [Bayesian information criterion accounting for the number of covariance parameters in mixed effects models](http://www.csam.or.kr/journal/view.html?doi=10.29220/CSAM.2020.27.3.301)
+<br> Heo, J., Lee, J. Y., and Kim, W. (2020)
+<br> Communications for Statistical Applications and Methods, 27:301-311.
 
 
 Softwares
