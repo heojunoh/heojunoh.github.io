@@ -21,7 +21,7 @@ repository               : "https://github.com/heojunoh"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Junoh Heo.png"
+  avatar           : "heojunoh.JPG"
   name             : "Junoh Heo"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student, Department of Statistics and Probability"
