@@ -13,8 +13,8 @@ Publications
 2. [Active Learning for a Recursive Non-Additive Emulator for Multi-Fidelity Computer Experiments](https://arxiv.org/abs/2309.11772)
 <br> **Heo, J.**, and Sung, C.-L. (2024+)
 <br> Submitted.
-   * Winner, INFORMS 2023 Quality, Statistics & Reliability Best Student Paper Competition
-   * Winner, 2024 ASA Student Paper Competition, Sections on Physical and Engineering Sciences (SPES) and Quality and Productivity (Q&P)
+   * Winner, [INFORMS 2023 Quality, Statistics & Reliability Best Student Paper Competition](https://connect.informs.org/qsr/awards)
+   * Winner, [2024 ASA Student Paper Competition, Sections on Physical and Engineering Sciences (SPES) and Quality and Productivity (Q&P)](https://community.amstat.org/spes/outreach/studentpapercompetition)
 <br> <br> 
 
 1. [Bayesian information criterion accounting for the number of covariance parameters in mixed effects models](http://www.csam.or.kr/journal/view.html?doi=10.29220/CSAM.2020.27.3.301)
