@@ -19,7 +19,7 @@ Publications
 <br> Submitted.
    * Winner, [INFORMS 2023 Quality, Statistics & Reliability Best Student Paper Competition](https://connect.informs.org/qsr/awards)
    * Winner, [2024 ASA Student Paper Competition, Sections on Physical and Engineering Sciences (SPES) and Quality and Productivity (Q&P)](https://community.amstat.org/spes/outreach/studentpapercompetition)
-<br> 
+<br> <br> 
 
 1. [Bayesian information criterion accounting for the number of covariance parameters in mixed effects models](http://www.csam.or.kr/journal/view.html?doi=10.29220/CSAM.2020.27.3.301)
 <br> **Heo, J.**, Lee, J. Y., and Kim, W. (2020)
