@@ -12,7 +12,6 @@ Hi, I'm Junoh Heo and Ph.D. student in the [Department of Statistics and Probabi
 News
 ------
 * **[Aug 2024]** I will be presenting our work [Active Learning for a Recursive Non-Additive Emulator for Multi-Fidelity Computer Experiments](https://arxiv.org/abs/2309.11772) at [2024 Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2024/index.cfm).
-* **[Jun 2024]** I will be presenting our work [Active Learning for a Recursive Non-Additive Emulator for Multi-Fidelity Computer Experiments](https://arxiv.org/abs/2309.11772) at [Joint Research Conference 2024](https://uwaterloo.ca/joint-research-conference-statistics-quality-industry-technology/).
 * **[Jun 2024]** The paper "Active learning for a recursive non-additive emulator for multi-fidelity computer experiments" has been accepted by Technometrics.
 * **[Mar 2024]** I am deeply honored to announce that I have been selected as a winner of the [2024 ASA SPES+Q&P Student Paper Competition](https://community.amstat.org/spes/outreach/studentpapercompetition). 
 * **[Dec 2023]** R package [RNAmf](https://cran.r-project.org/web/packages/RNAmf/index.html) is available on CRAN.
