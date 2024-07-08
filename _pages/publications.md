@@ -14,9 +14,9 @@ Publications
 <br> Steensma, A. K., Kaste, J. A. M., **Heo, J.**, Orr , D., Sung, C.-L., Shachar-Hill, Y., and Walker, B. J. (2024+)
 <br> Submitted.
 
-2. [Active Learning for a Recursive Non-Additive Emulator for Multi-Fidelity Computer Experiments](https://arxiv.org/abs/2309.11772)
+2. [Active Learning for a Recursive Non-Additive Emulator for Multi-Fidelity Computer Experiments](https://doi.org/10.1080/00401706.2024.2376173)
 <br> **Heo, J.**, and Sung, C.-L. (2024+)
-<br> [Technometrics](https://doi.org/10.1080/00401706.2024.2376173), accepted.
+<br> Technometrics, accepted.
    * Winner, [INFORMS 2023 Quality, Statistics & Reliability Best Student Paper Competition](https://connect.informs.org/qsr/awards)
    * Winner, [2024 ASA Student Paper Competition, Sections on Physical and Engineering Sciences (SPES) and Quality and Productivity (Q&P)](https://community.amstat.org/spes/outreach/studentpapercompetition)
 <br> <br> 
