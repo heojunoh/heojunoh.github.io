@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Junoh Heo and a Ph.D. student in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/). I am very fortunate to be advised by [Dr. Chih-Li Sung](https://chihli.github.io). My research interests include **computer experiment, uncertainty quantification, multi-fidelity simulation** in the field of *industrial/engineering statistics*.\
-Besides research, my personal favorites are Pokémon GO, Manchester City, sushi, Kiha Chang, Claude Debussy, and bubble tea. 
+Hi, I'm Junoh Heo (pronounced as *Juno Huh*) and a Ph.D. student in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/). I am very fortunate to be advised by [Dr. Chih-Li Sung](https://chihli.github.io). My research interests include **computer experiment, uncertainty quantification, multi-fidelity simulation** in the field of *industrial/engineering statistics*.\
+Besides research, my personal favorites are Pokémon GO, Manchester City, Kiha Chang, Claude Debussy, sushi, and bubble tea. I know, that's a lot, huh?
 
 News
 ------
