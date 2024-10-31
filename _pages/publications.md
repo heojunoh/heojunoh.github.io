@@ -12,7 +12,7 @@ Publications
 ======
 3. [Modeling With Uncertainty Quantification Identifies Essential Features of a Non-Canonical Algal Carbon-Concentrating Mechanism](https://www.biorxiv.org/content/10.1101/2024.04.12.589284v1)
 <br> Steensma, A. K., Kaste, J. A. M., **Heo, J.**, Orr , D., Sung, C.-L., Shachar-Hill, Y., and Walker, B. J. (2024+)
-<br> Submitted.
+<br> Plant Physiology, accepted.
 
 2. [Active Learning for a Recursive Non-Additive Emulator for Multi-Fidelity Computer Experiments](https://doi.org/10.1080/00401706.2024.2376173)
 <br> **Heo, J.**, and Sung, C.-L. (2024+)
