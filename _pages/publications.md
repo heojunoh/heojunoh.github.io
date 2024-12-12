@@ -10,7 +10,7 @@ My research interests lie in **computer experiment, uncertainty quantification, 
 
 Publications
 ======
-3. [Modeling With Uncertainty Quantification Identifies Essential Features of a Non-Canonical Algal Carbon-Concentrating Mechanism](https://www.biorxiv.org/content/10.1101/2024.04.12.589284v1)
+3. [Modeling With Uncertainty Quantification Identifies Essential Features of a Non-Canonical Algal Carbon-Concentrating Mechanism](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiae629/7916514?login=false)
 <br> Steensma, A. K., Kaste, J. A. M., **Heo, J.**, Orr , D., Sung, C.-L., Shachar-Hill, Y., and Walker, B. J. (2024+)
 <br> Plant Physiology, accepted.
 
