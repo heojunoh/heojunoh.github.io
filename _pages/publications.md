@@ -10,13 +10,21 @@ My research interests lie in **computer experiment, uncertainty quantification, 
 
 Publications
 ======
+5. [Diffusion Non-Additive Model for Multi-Fidelity Simulations with Tunable Precision](https://arxiv.org/abs/2506.08328)
+<br> **Heo, J.**, Boutelet, R., and Sung, C.-L. (2025+)
+<br> Submitted.
+
+4. [Fast and accurate emulation of complex dynamic simulators](https://arxiv.org/abs/2503.20250)
+<br> **Heo, J.** (2025+)
+<br> Submitted.
+
 3. [Modeling With Uncertainty Quantification Identifies Essential Features of a Non-Canonical Algal Carbon-Concentrating Mechanism](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiae629/7916514?login=false)
-<br> Steensma, A. K., Kaste, J. A. M., **Heo, J.**, Orr , D., Sung, C.-L., Shachar-Hill, Y., and Walker, B. J. (2024+)
-<br> Plant Physiology, accepted.
+<br> Steensma, A. K., Kaste, J. A. M., **Heo, J.**, Orr , D., Sung, C.-L., Shachar-Hill, Y., and Walker, B. J. (2025)
+<br> Plant Physiology, 197(2), kiae629.
 
 2. [Active Learning for a Recursive Non-Additive Emulator for Multi-Fidelity Computer Experiments](https://doi.org/10.1080/00401706.2024.2376173)
-<br> **Heo, J.**, and Sung, C.-L. (2024+)
-<br> Technometrics, accepted.
+<br> **Heo, J.**, and Sung, C.-L. (2025)
+<br> Technometrics, 67(1), 58-72.
    * Winner, [INFORMS 2023 Quality, Statistics & Reliability Best Student Paper Competition](https://connect.informs.org/qsr/awards)
    * Winner, [2024 ASA Student Paper Competition, Sections on Physical and Engineering Sciences (SPES) and Quality and Productivity (Q&P)](https://community.amstat.org/spes/outreach/studentpapercompetition)
 <br> <br> 
