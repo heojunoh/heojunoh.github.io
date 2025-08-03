@@ -36,5 +36,9 @@ Publications
 
 Softwares
 ======
+* [DNAmf](https://cran.r-project.org/web/packages/DNAmf/index.html): Diffusion Non-Additive Model with Tunable Precision
+![](https://cranlogs.r-pkg.org/badges/grand-total/DNAmf)
+* [dynemu](https://cran.r-project.org/web/packages/dynemu/index.html): Emulation of Dynamic Simulators via One-Step-Ahead Approach
+![](https://cranlogs.r-pkg.org/badges/grand-total/dynemu)
 * [RNAmf](https://cran.r-project.org/web/packages/RNAmf/index.html): Recursive non-additive emulator for multi-fidelity data
 ![](https://cranlogs.r-pkg.org/badges/grand-total/RNAmf)
