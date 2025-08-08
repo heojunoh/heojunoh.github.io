@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research interests lie in **computer experiment, uncertainty quantification, multi-fidelity simulation** in the field of *industrial/engineering statistics*. [Google Scholar](https://scholar.google.com/citations?user=3KWFrYAAAAAJ&hl=en)
+My research interests include **computer experiments, multi-fidelity simulation, and uncertainty quantification, with applications in the physical, biological, and engineering sciences**. [Google Scholar](https://scholar.google.com/citations?user=3KWFrYAAAAAJ&hl=en)
 <br>
 
 Publications
