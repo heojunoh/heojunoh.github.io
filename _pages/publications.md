@@ -14,7 +14,7 @@ Publications
 <br> **Heo, J.**, Boutelet, R., and Sung, C.-L. (2025+)
 <br> Submitted.
 
-4. [Fast and accurate emulation of complex dynamic simulators](https://arxiv.org/abs/2503.20250)
+4. [Fast and Accurate Emulation of Complex Dynamic Simulators](https://arxiv.org/abs/2503.20250)
 <br> **Heo, J.** (2025+)
 <br> Submitted.
 
