@@ -12,6 +12,10 @@ Publications
 ======
 
 
+7. [Influence of Prior Distributions on Gaussian Process Hyperparameter Inference](https://arxiv.org/abs/2511.10950)
+<br> Mutoh, A., and **Heo, J.** (2025+)
+<br> Submitted.
+
 6. RNAmf and DNAmf: Recursive and diffusion non-additive emulators with active learning for multi-fidelity simulation in R
 <br> **Heo, J.**, and Sung, C.-L. (2025+)
 <br> Submitted.
