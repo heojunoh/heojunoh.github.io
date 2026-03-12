@@ -40,9 +40,14 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* 1. Keep the sidebar un-glued so the footer respects its space */
 .sidebar {
   position: relative !important;
   height: auto !important;
-  margin-bottom: 15rem !important; 
+}
+
+/* 2. Add the space directly under your profile links instead of the whole sidebar */
+.author__urls-wrapper {
+  margin-bottom: 15rem !important;
 }
 
