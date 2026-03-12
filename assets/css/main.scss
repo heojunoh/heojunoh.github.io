@@ -1,15 +1,6 @@
 ---
 ---
 
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
-
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -45,4 +36,27 @@
   height: auto !important;
   border-bottom: 5rem solid transparent !important; 
   margin-top: 0 !important;
+}
+
+.masthead__inner-wrap {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+  align-items: center; /* Helps center items vertically */
+}
+
+/* Remove default bottom margins from the site title (your name) */
+.site-title {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+  display: flex;
+  align-items: center;
+}
+
+/* Remove default bottom margins from the navigation menu */
+.masthead__menu ul {
+  margin-bottom: 0 !important;
+}
+
+.greedy-nav {
+  margin-bottom: 0 !important;
 }
