@@ -40,8 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.sidebar {
-  position: relative !important;
-  height: 50rem !important;
-  margin-bottom: 5rem !important; 
+#main {
+  padding-bottom: 8rem !important; 
 }
