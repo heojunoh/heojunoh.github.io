@@ -41,5 +41,8 @@
 @import "print";
 
 .sidebar {
-  padding-bottom: 5rem !important; 
+  position: relative !important;
+  height: auto !important;
+  border-bottom: 5rem solid transparent !important; 
+  margin-top: 0 !important;
 }
