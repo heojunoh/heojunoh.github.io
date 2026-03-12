@@ -40,4 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-
+.page__footer {
+  position: relative !important;
+  clear: both !important;
+  margin-top: 5rem !important; 
+}
