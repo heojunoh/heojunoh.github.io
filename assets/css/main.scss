@@ -41,10 +41,10 @@
 @import "print";
 
 .page {
-  min-height: 900px !important; 
+  min-height: 2900px !important; 
 }
 .page__footer {
   position: relative !important; 
   clear: both !important;
-  margin-top: 5rem !important; 
+  margin-top: -5rem !important; 
 }
