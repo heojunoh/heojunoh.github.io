@@ -40,7 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.page {
+  min-height: 900px !important; 
+}
 .page__footer {
   position: relative !important; 
-  margin-top: 25rem !important; 
+  clear: both !important;
+  margin-top: 5rem !important; 
 }
