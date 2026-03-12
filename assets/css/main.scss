@@ -40,8 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.sidebar::after {
-  content: "";
-  display: block;
-  height: 20rem; /* This is your gap! Adjust this number up or down */
+.sidebar {
+  position: relative !important;
+  height: auto !important;
+  margin-bottom: 15rem !important; 
 }
