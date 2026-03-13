@@ -34,7 +34,11 @@
 .sidebar {
   position: relative !important;
   height: auto !important;
-  border-bottom: 5rem solid transparent !important; 
-  margin-top: -3rem !important; /* This pulls the sidebar UP */
-  padding-top: 0 !important;    /* This removes internal top space */
+}
+@media (min-width: 1024px) {
+  .sidebar {
+    border-bottom: 5rem solid transparent !important; 
+    margin-top: -3rem !important; /* Pulls the sidebar UP on desktop */
+    padding-top: 0 !important;    /* Removes internal top space on desktop */
+  }
 }
