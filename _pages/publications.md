@@ -43,7 +43,7 @@ Publications
 1. [Bayesian information criterion accounting for the number of covariance parameters in mixed effects models](http://www.csam.or.kr/journal/view.html?doi=10.29220/CSAM.2020.27.3.301)
 <br> **Heo, J.**, Lee, J. Y., and Kim, W. (2020)
 <br> Communications for Statistical Applications and Methods, 27:301-311.
-
+{: reversed="reversed"}
 
 Softwares
 ======
