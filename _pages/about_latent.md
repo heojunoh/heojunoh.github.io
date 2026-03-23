@@ -18,3 +18,8 @@ News
 * **[Mar 2026]** I started learning Japanese. My ultimate goal is to confidently order sushi entirely in Japanese.
 * **[Jun 2023]** Celebrating the historic Manchester City treble! 
 * **[Mar 2022]** It turns out I have a cat allergy! I had no idea until I turned 27.
+
+---
+<div style="display: flex; justify-content: center; margin-top: 2em;">
+  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=7s09Ov3CsIwuNKMqzUL0erqz3uN-ZNDY7MDjAKUWXb4"></script>
+</div>
