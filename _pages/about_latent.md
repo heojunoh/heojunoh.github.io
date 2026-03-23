@@ -18,10 +18,9 @@ News
 * **[Mar 2026]** I started learning Japanese. My ultimate goal is to confidently order sushi entirely in Japanese.
 * **[Jun 2023]** Celebrating the historic Manchester City treble! 
 * **[Mar 2022]** It turns out I have a cat allergy! I had no idea until I turned 27<a href="https://mapmyvisitors.com/web/1c3f5" target="_blank" style="color: inherit; text-decoration: none; cursor: default;">.</a>
-</div>
 
 ---
-<div style="display: flex; justify-content: center; margin-top: 2em; margin-bottom: -2em; max-width: 300px; margin-left: auto; margin-right: auto; pointer-events: none;">
+<div style="display: flex; justify-content: center; margin-top: 2em; max-width: 300px; margin-left: auto; margin-right: auto; pointer-events: none;">
   <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=GWXl8ss3AkUKBI-RT18VFcHXGgtRtTFe__vgYWe3Afg&cl=ffffff&w=300"></script>
 </div>
 --- 
