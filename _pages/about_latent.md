@@ -21,5 +21,5 @@ News
 
 ---
 <div style="display: flex; justify-content: center; margin-top: 2em;">
-  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=7s09Ov3CsIwuNKMqzUL0erqz3uN-ZNDY7MDjAKUWXb4"></script>
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=GWXl8ss3AkUKBI-RT18VFcHXGgtRtTFe__vgYWe3Afg&cl=ffffff&w=a"></script>
 </div>
