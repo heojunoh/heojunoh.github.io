@@ -1,17 +1,20 @@
 ---
-permalink: /
-title: "About me"
+layout: archive_latent
+permalink: /about_latent/
+title: "About me beyond academia"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-Hi, I'm Junoh Heo and a Ph.D. student in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/). I am very fortunate to be advised by [Dr. Chih-Li Sung](https://chihli.github.io). My research interests include *computer experiments, multi-fidelity simulation, and uncertainty quantification, with applications in the physical, biological, and engineering sciences*.
+Hi, I'm Junoh Heo and glad you found this page! This is the easter egg of my website, about me beyond academia. If you stumbled upon this, please feel free to reach out. I am always happy if we can talk about things outside of research or academic work!
+
+I enjoy documenting my thoughts or daily life, as well as discovering new places in familiar areas. If I weren't a statistician, I think I would have loved to be a travel guide or a travel writer. 
+
+My personal favorites include Pokémon GO, Manchester City, Kiha Chang, and sushi. I love movies like *Eternal Sunshine of the Spotless Mind* (2004), *Josee, the Tiger and the Fish* (ジョゼと虎と魚たち, 2003), *La La Land* (2016), *Love letter* (ラブレター, 1995), *One fine spring day* (봄날은 간다, 2001), and *We Made a Flower Bouquet* (花束みたいな恋をした, 2021) in alphabetical order. If you know of any films with a similar vibe, please share your recommendations!
+
 
 News
 ------
-* **[Oct 2024]** I am deeply honored to announce that I have been selected as a winner of the [2024 AISC Outstanding Graduate Student Presentation](https://mathstats.uncg.edu/aisc/). 
-* **[Jun 2024]** The paper "Active learning for a recursive non-additive emulator for multi-fidelity computer experiments" has been accepted by [Technometrics](https://doi.org/10.1080/00401706.2024.2376173).
-* **[Mar 2024]** I am deeply honored to announce that I have been selected as a winner of the [2024 ASA SPES+Q&P Student Paper Competition](https://community.amstat.org/spes/outreach/studentpapercompetition). 
-* **[Oct 2023]** I am deeply honored to announce that I have been selected as a winner of the [INFORMS 2023 QSR Best Student Paper Competition](https://connect.informs.org/qsr/awards).
+* **[Jun 2026]** I will be moving to Winston-Salem, North Carolina. Thanks East Lansing!
+* **[Mar 2026]** I started learning Japanese. My ultimate goal is to confidently order sushi entirely in Japanese.
+* **[Jun 2023]** Celebrating the historic Manchester City treble! 
+* **[Mar 2022]** It turns out I have a cat allergy! I had no idea until I turned 27.
