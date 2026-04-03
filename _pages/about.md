@@ -9,6 +9,8 @@ redirect_from:
 
 Hi, I'm Junoh Heo and a Ph.D. student in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/). I am very fortunate to be advised by [Dr. Chih-Li Sung](https://chihli.github.io). My research interests include *computer experiments, multi-fidelity simulation, and uncertainty quantification, with applications in the physical, biological, and engineering sciences*.
 
+I will be joining the [Department of Statistical Sciences](https://stats.wfu.edu) at [Wake Forest University](https://www.wfu.edu) as a tenure-track Assistant Professor in July 2026. 
+
 News
 ------
 * **[Oct 2024]** I am deeply honored to announce that I have been selected as a winner of the [2024 AISC Outstanding Graduate Student Presentation](https://mathstats.uncg.edu/aisc/). 
