@@ -11,6 +11,12 @@ Hi, I'm Junoh Heo and a Ph.D. student in the [Department of Statistics and Proba
 
 I will be joining the [Department of Statistical Sciences](https://stats.wfu.edu) at [Wake Forest University](https://www.wfu.edu) as a tenure-track Assistant Professor in July 2026. 
 
+<!--
+Hi, I am Junoh Heo, a tenure-track Assistant Professor in the [Department of Statistical Sciences](https://stats.wfu.edu) at [Wake Forest University](https://www.wfu.edu). My research interests include *computer experiments, multi-fidelity simulation, and uncertainty quantification, with applications in the physical, biological, and engineering sciences*.
+
+Prior to joining Wake Forest University, I received my Ph.D. from the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/), where I was very fortunate to be advised by [Dr. Chih-Li Sung](https://chihli.github.io). Before that, I earned my bachelor’s and master’s degrees from [Chung-Ang University](https://neweng.cau.ac.kr/index.do).
+-->
+
 News
 ------
 * **[Oct 2024]** I am deeply honored to announce that I have been selected as a winner of the [2024 AISC Outstanding Graduate Student Presentation](https://mathstats.uncg.edu/aisc/). 
