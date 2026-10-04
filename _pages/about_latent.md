@@ -9,14 +9,15 @@ Hi, I'm Junoh Heo and glad you found this page! This is the easter egg of my web
 
 I enjoy documenting my thoughts or daily life, as well as discovering new places in familiar areas. If I weren't a statistician, I think I would have loved to be a travel guide or a travel writer. 
 
-My personal favorites include Pokémon GO, Manchester City, Kiha Chang, and sushi. I love movies like *Eternal Sunshine of the Spotless Mind* (2004), *Josee, the Tiger and the Fish* (ジョゼと虎と魚たち, 2003), *La La Land* (2016), *Love letter* (ラブレター, 1995), *One fine spring day* (봄날은 간다, 2001), and *We Made a Flower Bouquet* (花束みたいな恋をした, 2021) in alphabetical order. If you know of any films with a similar vibe, please share your recommendations!
+My personal favorites include Pokémon GO, ~~Manchester City~~, Kiha Chang, and sushi. I love movies like *Eternal Sunshine of the Spotless Mind* (2004), *Josee, the Tiger and the Fish* (ジョゼと虎と魚たち, 2003), *La La Land* (2016), *Love letter* (ラブレター, 1995), *One fine spring day* (봄날은 간다, 2001), and *We Made a Flower Bouquet* (花束みたいな恋をした, 2021) in alphabetical order. If you know of any films with a similar vibe, please share your recommendations!
 
 
 News
 ------
+* **[Oct 2026]** Currently searching for a new hobby to replace my long-time passion for Manchester City, though settling into my new position allows me very little free time!
 * **[Jun 2026]** I will be moving to Winston-Salem, North Carolina. Thanks East Lansing!
 * **[Mar 2026]** I started learning Japanese. My ultimate goal is to confidently order sushi entirely in Japanese.
-* **[Jun 2023]** Celebrating the historic Manchester City treble! 
+* **[Jun 2023]** ~~Celebrating the historic Manchester City treble!~~
 * **[Mar 2022]** It turns out I have a cat allergy! I had no idea until I turned 27<a href="https://mapmyvisitors.com/web/1c3f5" target="_blank" style="color: inherit; text-decoration: none; cursor: default;">.</a>
 
 ---
