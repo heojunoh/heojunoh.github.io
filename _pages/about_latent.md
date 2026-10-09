@@ -14,6 +14,7 @@ My personal favorites include Pokémon GO, Manchester City, Kiha Chang, and sush
 
 News
 ------
+* **[Oct 2026]** Baskin Robbins' Mango Tango has been my favorite for 30 years. You should try it!
 * **[Jun 2026]** I will be moving to Winston-Salem, North Carolina. Thanks East Lansing!
 * **[Mar 2026]** I started learning Japanese. My ultimate goal is to confidently order sushi entirely in Japanese.
 * **[Jun 2023]** Celebrating the historic Manchester City treble!
