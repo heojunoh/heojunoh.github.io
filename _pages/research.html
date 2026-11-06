@@ -1,0 +1,96 @@
+---
+layout: null
+title: "Research"
+permalink: /research/
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Junoh Heo develops statistical methods for learning from expensive computer simulations, combining multi-fidelity emulation, dynamic modeling, uncertainty quantification, and sequential design.">
+  <meta name="theme-color" content="#153e49">
+  <title>Research | Junoh Heo</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 60'%3E%3Crect width='60' height='60' rx='14' fill='%23153e49'/%3E%3Ctext x='30' y='40' text-anchor='middle' font-family='Georgia' font-size='36' fill='%23fff'%3EJ%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="{{ '/assets/research-overview/styles.css' | relative_url }}">
+  <script defer src="{{ '/assets/research-overview/research.js' | relative_url }}"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="masthead">
+    <a class="identity" href="https://heojunoh.github.io/"><span class="monogram" aria-hidden="true">JH</span><span><strong>Junoh Heo</strong><small>Statistical Sciences · Wake Forest University</small></span></a>
+    <nav aria-label="Main navigation"><a href="#why">Overview</a><a href="#research">Research</a><a href="https://heojunoh.github.io/publications/">Publications <span aria-hidden="true">↗</span></a></nav>
+  </header>
+  <main id="main">
+    <section class="hero wrap" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow">Computer experiments & uncertainty quantification</p>
+        <h1 id="hero-title">Learning more<br> from fewer<br> <em>simulations.</em></h1>
+        <p class="hero-lead">I develop statistical methods that turn limited simulation runs into useful predictions, uncertainty estimates, and better decisions.</p>
+        <p>My research connects Gaussian process emulation, multi-fidelity simulation, dynamic modeling, and sequential design to make complex computer models more useful for scientific discovery.</p>
+        <a class="text-link" href="#why">Why this research matters <span aria-hidden="true">↓</span></a>
+      </div>
+      <figure class="learning-figure">
+        <div class="plot-top"><span class="plot-kicker">The idea behind an emulator</span><span class="plot-count" id="run-count" aria-live="polite">3 simulation runs</span></div>
+        <h2>Learn a response.<br> Understand what is uncertain.</h2>
+        <svg id="emulator-plot" viewBox="0 0 530 330" role="img" aria-labelledby="gp-title gp-description"><title id="gp-title">An interactive Gaussian process emulator</title><desc id="gp-description">A synthetic response is estimated from three initial simulation runs. Choose the next run to see how the fitted mean and uncertainty change.</desc><g id="gp-content"></g></svg>
+        <div class="legend"><span><i class="line mean"></i>Prediction</span><span><i class="area"></i>±2 posterior SD</span><span><i class="dot"></i>Simulation runs</span><span id="reference-legend"><i class="line reference"></i>Simulator response</span></div>
+        <p class="try-run"><strong>Try adding an informative run.</strong><span>Click below to see the emulator learn.</span></p>
+        <div class="plot-controls"><div class="segmented" role="group" aria-label="Reset the example"><button type="button" data-runs="3" aria-pressed="true" title="Reset to the initial three runs">3 runs</button></div><button class="next-run" id="next-run" type="button">Choose next run <span aria-hidden="true">+</span></button></div>
+        <div class="plot-bottom"><label><input type="checkbox" id="show-reference" checked> Show simulator response</label><span id="design-note" aria-live="polite">Start with 3 runs, then add one at a time.</span></div>
+        <figcaption>Illustrative example using a fitted Gaussian process, not a result from a research application. The shaded band represents uncertainty about the simulator response under the model.</figcaption>
+      </figure>
+    </section>
+
+    <section id="why" class="why-section">
+      <div class="wrap">
+        <div class="section-label"><span>01</span> The motivation</div>
+        <div class="intro-grid">
+          <h2>What if the experiment<br> is too costly to run?</h2>
+          <div class="body-copy">
+            <p>Real world experiments are often too dangerous, expensive, or time consuming to perform. Testing an aircraft under extreme conditions, investigating how an infectious disease might spread, or studying the effects of a changing climate may require experiments that are difficult or impossible to conduct directly.</p>
+            <p>Computer simulations offer another way to investigate these questions. They use mathematical models and numerical algorithms to describe a system and explore how it responds to different conditions. A <strong>computer experiment</strong> studies these simulations systematically by choosing inputs, running the model, and analyzing its outputs.</p>
+          </div>
+        </div>
+        <div class="examples" aria-label="Examples of questions investigated with computer simulations">
+          <article><span class="example-number">01 / Engineering</span><svg viewBox="0 0 240 95" aria-hidden="true"><path d="M25 64 Q62 10 120 42 Q165 67 218 34 M25 75 Q62 21 120 53 Q165 78 218 45 M25 53 Q62 -1 120 31 Q165 56 218 23" fill="none" stroke="currentColor" stroke-width="1" opacity=".25"/><path d="M31 52 Q70 24 181 49 Q94 58 31 52Z" fill="none" stroke="currentColor" stroke-width="2"/><path d="M132 49 L158 11 L162 49" fill="none" stroke="currentColor" stroke-width="1.5"/></svg><h3>How will a design perform?</h3><p>Explore airflow, heat transfer, or structural response before building a physical prototype.</p></article>
+          <article><span class="example-number">02 / Biology</span><svg viewBox="0 0 240 95" aria-hidden="true"><g fill="none" stroke="currentColor"><circle cx="112" cy="47" r="30" stroke-width="1.5"/><circle cx="112" cy="47" r="22" opacity=".35"/><ellipse cx="119" cy="47" rx="10" ry="18"/><path d="M20 47H73 M151 47H211 M48 42L54 47L48 52 M181 42L187 47L181 52"/></g><circle cx="105" cy="39" r="3" fill="currentColor" opacity=".45"/><circle cx="104" cy="55" r="3" fill="currentColor" opacity=".45"/></svg><h3>How does a system function?</h3><p>Investigate mechanisms and how changes in biological parameters affect a model's behavior.</p></article>
+          <article><span class="example-number">03 / Environment</span><svg viewBox="0 0 240 95" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="1.3"><path d="M16 72L61 22L92 60L137 10L185 72 M100 51L121 52L137 42L151 51"/><path d="M15 80Q40 72 65 80T115 80T165 80T215 80" opacity=".5"/><path d="M31 15H66 M176 26H217 M185 20H211" opacity=".35"/></g></svg><h3>What could happen under change?</h3><p>Compare scenarios for climate, water resources, and other evolving environmental systems.</p></article>
+        </div>
+        <p class="example-note">These examples illustrate the broader role of computer experiments.</p>
+        <div class="bottleneck">
+          <div><p class="eyebrow">The statistical challenge</p><h2>Simulations can be<br> expensive, too.</h2></div>
+          <div class="body-copy"><p>A detailed simulation may take hours or days, and scientific questions rarely require just one run. Exploring unknown parameters, comparing designs, or assessing uncertainty can require many evaluations. A limited computing budget therefore raises two questions. <strong>How can we predict a simulator's behavior without running it everywhere? And which runs are worth performing?</strong></p><p>I address these questions through statistical emulators, especially Gaussian processes. An emulator learns the relationship between inputs and outputs from a selected set of runs, provides fast predictions at new inputs, and quantifies uncertainty about those predictions.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="research" class="research-section wrap">
+      <div class="section-label"><span>02</span> Research directions</div>
+      <div class="section-heading"><h2>Four connected questions.</h2><p>How can statistical learning make the most of a limited simulation budget?</p></div>
+      <nav class="topic-nav" aria-label="Research topics"><a href="#multi-fidelity">Multi-fidelity simulation</a><a href="#dynamics">Dynamic simulators</a><a href="#uncertainty">Uncertainty quantification</a><a href="#design">Sequential design & optimization</a></nav>
+
+      <article id="multi-fidelity" class="research-row">
+        <div class="research-copy"><p class="topic-label">01 / Multi-fidelity simulation</p><h3>How can models of different<br> accuracies work together?</h3><p>A coarse computational mesh or a simplified physical model can produce inexpensive approximations, while a more detailed simulation may be much more costly. Multi-fidelity methods combine these sources so that inexpensive runs help us learn where detailed simulations are most valuable.</p><p>I develop Gaussian process emulators that capture nonlinear relationships across fidelity levels. My work includes the Recursive Non-Additive model and the Diffusion Non-Additive model for simulations with tunable precision. The latter also estimates the limiting response as a numerical precision parameter approaches zero, a target that may be too expensive to compute directly.</p></div>
+        <figure class="concept mesh-concept"><svg id="mesh-plot" viewBox="0 0 480 290" role="img" aria-labelledby="mesh-title"><title id="mesh-title">Three schematic computational meshes of increasing resolution</title><g id="mesh-content"></g></svg><figcaption>Different resolutions. Shared information.<br> <span>Conceptual meshes, not computed simulation outputs.</span></figcaption></figure>
+      </article>
+
+      <article id="dynamics" class="research-row">
+        <div class="research-copy"><p class="topic-label">02 / Dynamic simulators</p><h3>How can we predict a system<br> as it evolves over time?</h3><p>Many simulators describe trajectories rather than a single output. Examples include interacting populations, oscillating mechanical systems, and the evolution of physical states. Emulating these systems requires us to account for how uncertainty at one time affects predictions at later times.</p><p>I develop emulators that learn how a system moves from its current state to the next, then apply this relationship recursively. Using Gaussian approximations during propagation, this approach computes predictive means and variances analytically rather than estimating them by repeated sampling. The goal is efficient trajectory prediction with an explicit account of uncertainty.</p></div>
+        <figure class="concept dynamics-concept"><div class="figure-kicker">A prediction becomes the next input</div><svg id="dynamics-plot" viewBox="0 0 480 260" role="img" aria-labelledby="dynamics-title"><title id="dynamics-title">A schematic trajectory with uncertainty that changes over the prediction horizon</title><g id="dynamics-content"></g></svg><figcaption>Predict a step. Propagate uncertainty. Continue.<br> <span>Conceptual illustration of recursive prediction.</span></figcaption></figure>
+      </article>
+
+      <article id="uncertainty" class="research-row text-row">
+        <div class="research-copy"><p class="topic-label">03 / Uncertainty quantification</p><h3>What do we know,<br> and how certain are we?</h3></div>
+        <div class="research-detail"><p>A fast prediction is most useful when we also understand its limitations. Uncertainty quantification asks how uncertain inputs, incomplete simulation data, and modeling assumptions affect the conclusions we draw.</p><p>Even a deterministic simulator can have an uncertain emulator prediction because we have observed only a finite number of runs. This uncertainty is different from the discrepancy between the simulator and the physical world. My research studies predictive uncertainty and its propagation, including how prior choices for Gaussian process parameters affect inference and prediction.</p><div class="question-strip">Which conclusions are supported by the available simulations?</div></div>
+      </article>
+
+      <article id="design" class="research-row text-row">
+        <div class="research-copy"><p class="topic-label">04 / Active learning & Bayesian optimization</p><h3>Which simulation<br> should we run next?</h3></div>
+        <div class="research-detail"><p>When each run has a cost, the choice of where to evaluate a simulator matters. Sequential design uses the current emulator to select new runs, updates the model with the results, and repeats. Active learning can target improved prediction or reduced uncertainty, while Bayesian optimization targets a design or input that performs well.</p><p>My work develops active learning strategies that select both the input and fidelity of the next simulation. An ongoing direction is efficient Bayesian optimization for networks of connected simulators, where the output of one component becomes the input to another. These settings require us to consider both the value of a new evaluation and its computational cost.</p></div>
+      </article>
+    </section>
+
+  </main>
+</body>
+</html>
