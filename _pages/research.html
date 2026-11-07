@@ -18,12 +18,12 @@ author_profile: true
 </div>
 <figure class="ro-learning-figure">
         <div class="ro-plot-top"><span class="ro-plot-kicker">The idea behind an emulator</span><span class="ro-plot-count" id="run-count" aria-live="polite">3 simulation runs</span></div>
-        <p class="ro-demo-title">Learn a response.<br> Understand what is uncertain.</p>
+        <p class="ro-demo-title">Learn a response. Understand what is uncertain.</p>
         <svg id="emulator-plot" viewbox="0 0 530 330" role="img" aria-labelledby="gp-title gp-description" viewBox="0 0 530 330"><title id="gp-title">An interactive Gaussian process emulator</title><desc id="gp-description">A synthetic response is estimated from three initial simulation runs. Choose the next run to see how the fitted mean and uncertainty change.</desc><g id="gp-content"></g></svg>
         <div class="ro-legend"><span><i class="ro-line ro-mean"></i>Prediction</span><span><i class="ro-area"></i>±2 posterior SD</span><span><i class="ro-dot"></i>Simulation runs</span><span id="reference-legend"><i class="ro-line ro-reference"></i>Simulator response</span></div>
         <p class="ro-try-run"><strong>Try adding an informative run.</strong><span>Click below to see the emulator learn.</span></p>
-        <div class="ro-plot-controls"><div class="ro-segmented" role="group" aria-label="Reset the example"><button type="button" data-runs="3" aria-pressed="true" title="Reset to the initial three runs">3 runs</button></div><button class="ro-next-run" id="next-run" type="button">Choose next run <span aria-hidden="true">+</span></button></div>
-        <div class="ro-plot-bottom"><label><input type="checkbox" id="show-reference" checked> Show simulator response</label><span id="design-note" aria-live="polite">Start with 3 runs, then add one at a time.</span></div>
+        <div class="ro-plot-controls"><div class="ro-segmented" role="group" aria-label="Reset the example"><button type="button" data-runs="3" aria-pressed="true" title="Reset to the initial three runs">Reset to 3 runs</button></div><button class="ro-next-run" id="next-run" type="button">Choose next run <span aria-hidden="true">+</span></button></div>
+        <div class="ro-plot-bottom"><label><input type="checkbox" id="show-reference" checked> Show simulator response</label><span id="design-note" aria-live="polite"></span></div>
       </figure>
 </div>
 <section id="why-computer-experiments">
