@@ -39,7 +39,7 @@
     if(add.disabled) byId('design-note').textContent='Click 3 runs to start again.';
     return predict;
   }
-  root.querySelectorAll('[data-runs]').forEach(b=>b.addEventListener('click',()=>{xs=[...initial[b.dataset.runs]];byId('design-note').textContent='Start with 3 runs, then add one at a time.';draw();}));
+  root.querySelectorAll('[data-runs]').forEach(b=>b.addEventListener('click',()=>{xs=[...initial[b.dataset.runs]];byId('design-note').textContent='';draw();}));
   reference.addEventListener('change',draw);
   add.addEventListener('click',()=>{const p=posterior(xs);let chosen=0,max=-1;for(let i=0;i<=500;i++){const x=i/500,v=p(x).variance;if(v>max){max=v;chosen=x;}}xs.push(chosen);byId('design-note').textContent=`Added a run at input ${chosen.toFixed(2)} to reduce uncertainty.`;draw();});
   draw();
