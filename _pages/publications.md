@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+#main > .archive > .page__title { display: none; }
+</style>
 [Google Scholar](https://scholar.google.com/citations?user=3KWFrYAAAAAJ&hl=en)
 
 <!--1. RNAmf and DNAmf: Recursive and diffusion non-additive emulators with active learning for multi-fidelity simulation in R
